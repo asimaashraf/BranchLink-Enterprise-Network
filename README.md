@@ -1,19 +1,17 @@
 # BranchLink Enterprise Network
 
 **Project Overview:**  
-Complete enterprise-level network connecting two branches (A & B) using Cisco Packet Tracer.
+This project represents a complete enterprise-level network connecting two branches (A & B) using Cisco Packet Tracer.
 
 **Features:**
 - VLAN segmentation & Inter-VLAN Routing
-- OSPF dynamic routing
-- DHCP server & pools
-- ACLs for security
-- Trunk links & Port Security
-- End-to-end connectivity verification
+- OSPF dynamic routing between routers
+- DHCP server configuration
+- Trunk links configuration
+- End-to-end communication verification
 
 **Project Files:**
-- Packet Tracer file: `PacketTracerFiles/BranchLinkNetwork.pkt`
-- Configurations: `Configurations/`
-- Report: `Documentation/BranchLink_Enterprise_Network_Report.pdf`
+1. **CNProject.pkt** → Cisco Packet Tracer network simulation  
+2. **CN Project Manual.pdf** → Detailed project documentation, network topology, VLAN plan, IP addressing, configurations, and verification steps
 
 **Author:** Asima Ashraf
